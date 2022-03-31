@@ -1,3 +1,4 @@
+#Ejercicio 1 - Lucas Lopez
 print("Ingrese las materias cursadas durante el año escolar\n")
 materias = [] 
 materias.append (input("Primer materia cursada: \n"))

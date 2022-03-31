@@ -1,3 +1,4 @@
+#Ejercicio 4 - Lucas Lopez
 n1=float (input("Ingrese el primer numero: \n"))
 n2=float (input("ingrese el segundo numero: \n"))
 if n1 % n2 == 0:

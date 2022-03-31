@@ -1,3 +1,4 @@
+#Ejercicio 7 - Lucas Lopez
 nombre= input("Ingrese su Nombre: \n")
 apellido=input("Ingrese su Apellido \n")
 edad= float (input ("Ingrese su Edad: \n"))

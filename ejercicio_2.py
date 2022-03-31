@@ -1,3 +1,4 @@
+#Ejercicio 2 - Lucas Lopez
 print ("CALCULAR EL AREA DE UN TRIANGULO")
 base=input("¿Cual es la base?: ")
 altura=input("¿Cual es la altura?: ")

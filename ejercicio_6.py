@@ -1,3 +1,4 @@
+#Ejercicio 6 - Lucas Lopez
 print ("A continuacion deberá ingresar los nombres de sus amigos.\nPara dejar de ingresarlos, debera escribir la palabra 'Exit'.\n")
 nombres=[]
 vida = 0

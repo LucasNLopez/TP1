@@ -1,3 +1,4 @@
+#Ejercicio 10 - Lucas Lopez
 import random 
 print ("""
 Intente adivinar el numero del 1 al 10 !!
